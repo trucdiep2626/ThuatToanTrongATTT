@@ -1,0 +1,7 @@
+D:\c10\OneDrive - actvn.edu.vn\Desktop\New folder\bai1\bai1\bin\Debug\bai1.exe.config
+D:\c10\OneDrive - actvn.edu.vn\Desktop\New folder\bai1\bai1\bin\Debug\bai1.exe
+D:\c10\OneDrive - actvn.edu.vn\Desktop\New folder\bai1\bai1\bin\Debug\bai1.pdb
+D:\c10\OneDrive - actvn.edu.vn\Desktop\New folder\bai1\bai1\obj\Debug\bai1.csprojAssemblyReference.cache
+D:\c10\OneDrive - actvn.edu.vn\Desktop\New folder\bai1\bai1\obj\Debug\bai1.csproj.CoreCompileInputs.cache
+D:\c10\OneDrive - actvn.edu.vn\Desktop\New folder\bai1\bai1\obj\Debug\bai1.exe
+D:\c10\OneDrive - actvn.edu.vn\Desktop\New folder\bai1\bai1\obj\Debug\bai1.pdb
