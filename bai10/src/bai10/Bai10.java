@@ -41,8 +41,4 @@ public class Bai10 {
           } 
      return a;
     }
-
-   
-    
-    
 }
