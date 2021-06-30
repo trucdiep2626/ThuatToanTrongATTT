@@ -25,8 +25,6 @@ public class Bai13 {
         int n = input.nextInt();
         System.out.println(laSoCarmichael(n));
         }
-        
-
     }
 
   static boolean laSoCarmichael(int n) {
